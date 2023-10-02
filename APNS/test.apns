@@ -1,0 +1,6 @@
+{
+    "Simulator Target Bundle": "com.ray.PushTest",
+    "aps": {
+        "alert": "APNS 파일입니다"
+    },
+}
